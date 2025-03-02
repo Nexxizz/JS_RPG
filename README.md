@@ -1,6 +1,6 @@
 # JS_RPG
 
-Dieses Projekt ist ein Freizeitprojekt, das mit HTML, CSS und JavaScript entwickelt wurde. Es handelt sich um ein kleines Spiel.
+Dieses Projekt ist ein Freizeitprojekt, das mit HTML, CSS und JavaScript entwickelt wurde. Es handelt sich um ein kleines Spiel. Die Steuerung ist mit W,A,S,D Tasten.
 
 ## Game Preview
 
