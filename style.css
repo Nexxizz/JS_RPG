@@ -1,0 +1,19 @@
+/* Reset some default spacing and center the canvas */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #222; /* A dark background outside the canvas */
+  }
+  
+  /* The canvas element */
+  #gameCanvas {
+    /* The canvas itself will be drawn with a green background via JS.
+       You can also set a fallback color here if desired: */
+    background-color: green;
+    border: 1px solid #000; /* Optional border for visual clarity */
+  }
+  
